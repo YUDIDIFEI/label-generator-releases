@@ -7,8 +7,8 @@
 进入 [最新稳定版](https://github.com/YUDIDIFEI/label-generator-releases/releases/latest)。
 
 - 新供应商：下载 `label-generator-版本号-windows-x64.zip`，解压后运行“成品标签生成器.exe”。这是无业务数据的分发版，请放入自己的 `OrdertoShipment.xlsx` 并配置本供应商正确的 GS1 标识。
-- 已有用户：不要用空白完整版覆盖原文件夹。v1.5.6 及更早版本先下载 `label-generator-1.6.0-update.zip`，解压后在旧软件“系统 → 维护模式 → 安装离线升级包”中选择含 `release-manifest.json` 的目录。
-- v1.6.0 及后续版本：在“系统 → 维护模式 → 在线更新”中检查、下载，然后确认重启安装。
+- 已有用户：不要用空白完整版覆盖原文件夹。v1.5.6 及更早版本，以及 v1.6.0 测试版，先下载 `label-generator-1.6.1-update.zip`，解压后在旧软件“系统 → 维护模式 → 安装离线升级包”中选择含 `release-manifest.json` 的目录。
+- v1.6.1 及后续稳定版本：在“系统 → 维护模式 → 在线更新”中检查、下载，然后确认重启安装。
 
 ## 数据保护
 
